@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Web Browser
+Comment=Opens online exam portal
+Exec=/usr/bin/examtool-browser examos.aalto.fi
+Terminal=false
+Type=Application
+Icon=exam-browser-normal

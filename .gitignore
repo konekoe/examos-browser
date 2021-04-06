@@ -1,0 +1,21 @@
+# exclude usr dir if debug compiled
+usr/**
+test/**
+
+# exclude object files
+*.o
+
+# exclude executable
+examtool-browser
+
+# exclude cookies and cache
+cookies.txt
+diskcache/**
+indexeddb/**
+localstorage/**
+
+# exclude cert files
+*.srl
+*.crt
+*.key
+*.csr

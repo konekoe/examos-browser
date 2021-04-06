@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Start Exam
+Comment=Starts digital exam in exam browser
+Exec=/usr/bin/examtool-browser
+Terminal=false
+Type=Application
+Icon=exam-browser
